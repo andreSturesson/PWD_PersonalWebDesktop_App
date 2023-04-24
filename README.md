@@ -1,5 +1,6 @@
 
-# A3 SPA
+# Personal Web Desktop
+This web application was created at my time at Linneaus University in the course Web Programming (1DV528)
 
 ## Description of SPA application
 This is an application where the user controls a PWD (Personal Web Desktop) which contains 3 working applications which can be run in parallel.
